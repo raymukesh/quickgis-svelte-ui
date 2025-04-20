@@ -27,7 +27,7 @@ Built with **Svelte**, **Mapbox GL JS**, and **Python (FastAPI)**, QuickGIS is s
 - 🌐 **Web-Based, No Install Required**  
   No QGIS, no ArcGIS — just a browser.
 
-----
+---
 
 ## 🛠 Tech Stack
 
@@ -35,7 +35,11 @@ Built with **Svelte**, **Mapbox GL JS**, and **Python (FastAPI)**, QuickGIS is s
 - **Backend**: Python, FastAPI, GeoPandas, Rasterio
 - **Formats Supported**: `.geojson`, `.zip` (shapefile), `.tif`, `.kml`, `.csv`
 
-----
+---
+
+## 🛡️ License
+- All Rights Reserved.
+- This project is proprietary. No part of this repository may be copied, distributed, or reused without explicit permission from the author.
 
 ## 🧰 Project Structure
 
@@ -50,8 +54,3 @@ quickgis-svelte-ui/
 ├── global.css
 ├── package.json
 └── README.md
-
-
-🛡️ License
-All Rights Reserved.
-This project is proprietary. No part of this repository may be copied, distributed, or reused without explicit permission from the author.
