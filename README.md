@@ -1,5 +1,12 @@
 # 🌍 QuickGIS – Lightweight Geoprocessing Tools
 
+![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)
+![Frontend](https://img.shields.io/badge/frontend-svelte-orange.svg)
+![Backend](https://img.shields.io/badge/backend-fastapi-blue.svg)
+![Maintainer](https://img.shields.io/badge/maintainer-Mukesh%20Ray-blueviolet)
+
+
 QuickGIS is a modern, browser-based geospatial toolkit designed to perform common GIS tasks like buffering, clipping, and more — without needing to install desktop GIS software.
 
 Built with **Svelte**, **Mapbox GL JS**, and **Python (FastAPI)**, QuickGIS is simple, fast, and easy to use for planners, researchers, and students.
