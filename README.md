@@ -32,7 +32,7 @@ Built with **Svelte**, **Mapbox GL JS**, and **Python (FastAPI)**, QuickGIS is s
 ## 🛠 Tech Stack
 
 - **Frontend**: Svelte, Mapbox GL JS, Mapbox Draw
-- **Backend**: Python, FastAPI, GeoPandas, Rasterio
+- **Backend**: Python, FastAPI, GeoPandas, Rasterio and other supporting packages
 - **Formats Supported**: `.geojson`, `.zip` (shapefile), `.tif`, `.kml`, `.csv`
 
 ---
